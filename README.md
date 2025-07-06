@@ -16,6 +16,7 @@ This notebook is part of the integrative project at Fatec, which consists of dev
 ## 📖 Notebook Description
 
 This notebook scrapes data from public files provided by the federal government (.csv) using the Pandas library, processes and formats this data, and then displays it in dynamic charts using the Numpy and Matplotlib libraries. The fictitious client can filter export data by year, municipality, value per Kilo or FOB, view the top 5 exporting municipalities in the state, and even compare municipalities with each other.
+
 ---
 
 ## 🛠️ Notebook Workflow and Features
