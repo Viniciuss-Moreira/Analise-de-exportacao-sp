@@ -1,3 +1,6 @@
+[🇺🇸 View in English](./README.md)
+---
+
 # Analise-de-exportacao-sp
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
@@ -26,5 +29,8 @@ Esse notebook realiza uma raspagem de dados em arquivos públicos fornecidos pel
 **Ciencia de dados:** Python, Numpy, Matplotlib, Pandas
 ---
 ## 🔮 Implementações futuras
+
 **Banco de dados relacional:** Adição de um banco de dados para salvar esses dados e permitir que seja utilizado consultas por SQL.
+
+---
 **Scripts de automação:** Scripts em python para automatizar e incluir automaticamente novas informações que chegarem no site do governo no gráfico interativo.
