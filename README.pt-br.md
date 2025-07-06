@@ -16,6 +16,7 @@ Esse notebook faz parte do projeto integrador da Fatec, que consiste em desenvol
 ## 📖 Descrição do notebook
 
 Esse notebook realiza uma raspagem de dados em arquivos públicos fornecidos pelo governo federal (.csv) com a biblioteca Pandas, trata e formata esses dados e por meio das biblíotecas Numpy e Matplotlib exibem esses dados em forma de graficos dinamicos. O cliente ficticio consegue filtrar os dados de exportação por ano, município, valor por Kilo ou FOB, visualizar os top 5 municípios que mais exportam no estado e até comparar municípios entre sí.
+
 ---
 
 ## 🛠️ Workflow e funcionalidades do notebook
